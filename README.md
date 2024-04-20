@@ -1,1 +1,1 @@
-# data-structure author-Neha garg
+# data-structure author-Neha
